@@ -35,6 +35,9 @@ The dataset used in this project was taken from Kaggle:
 ## Dashboard 
 <img width="559" height="313" alt="Ride_Driver_Dashboard_preview" src="https://github.com/user-attachments/assets/577f5331-a13f-4775-9579-5de24934af4a" />
 
+## 📊 Published Dashboard
+Dashboard Interaction <a href="https://app.powerbi.com/groups/me/reports/da18dd63-7a5c-4fd0-9df6-b2927105a229/88316fa7b9755790e85c?experience=power-bi">🌐 View the Dashboard Online</a>
+
 ## 📈 Key Insights
 - The platform shows a steady increase in active drivers from 2011 to 2020, with peak growth during 2018–2019.
 - Passenger cancellation rate (10.56%) is higher than the driver cancellation rate (8%), highlighting rider-side issues.
