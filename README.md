@@ -31,3 +31,7 @@ The dataset used in this project was taken from Kaggle:
 - Added a Date Table for time-based analysis
 - Validated data quality by checking totals, row counts, and relationship accuracy
 - Loaded the cleaned dataset into Power BI for modelling and dashboard development
+
+## Dashboard 
+<img width="559" height="313" alt="Ride_Driver_Dashboard_preview" src="https://github.com/user-attachments/assets/577f5331-a13f-4775-9579-5de24934af4a" />
+
