@@ -35,3 +35,15 @@ The dataset used in this project was taken from Kaggle:
 ## Dashboard 
 <img width="559" height="313" alt="Ride_Driver_Dashboard_preview" src="https://github.com/user-attachments/assets/577f5331-a13f-4775-9579-5de24934af4a" />
 
+## 📈 Key Insights
+- The platform shows a steady increase in active drivers from 2011 to 2020, with peak growth during 2018–2019.
+- Passenger cancellation rate (10.56%) is higher than the driver cancellation rate (8%), highlighting rider-side issues.
+--Average driver rating is 4.89, with most ratings between 4.7–5.0, reflecting high service quality.
+- Taxi service dominates the driver base with 31,120 drivers, compared to 5,450 PHV drivers.
+- Friday and Saturday have the highest bookings, while Monday shows the lowest demand.
+- Spain contributes 69.62% of drivers, making it the platform’s strongest market, followed by Germany (30.38%).
+- 71.06% of drivers join organically, showing strong brand reach and low marketing dependency.
+- A strong positive correlation between bookings and rides indicates efficient matching and high operational effectiveness.
+
+## 🏁 Final Conclusion
+The platform is growing well, drivers provide good service, and most bookings turn into completed rides. Taxi drivers and Spain make up most of the activity. The only main issue is that passengers cancel more often, which can be improved. Overall, the system works smoothly and is performing strongly.
