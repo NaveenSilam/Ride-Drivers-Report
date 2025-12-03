@@ -36,7 +36,7 @@ The dataset used in this project was taken from Kaggle:
 <img width="559" height="313" alt="Ride_Driver_Dashboard_preview" src="https://github.com/user-attachments/assets/577f5331-a13f-4775-9579-5de24934af4a" />
 
 ## 📊 Published Dashboard
-Dashboard Interaction <a href="https://app.powerbi.com/groups/me/reports/da18dd63-7a5c-4fd0-9df6-b2927105a229/88316fa7b9755790e85c?experience=power-bi">🌐 View the Dashboard Online</a>
+Dashboard Interaction <a href="https://app.powerbi.com/groups/me/reports/f0a71ebd-40db-4a4c-9955-6d0baa45851c/88316fa7b9755790e85c?experience=power-bi">🌐 View the Dashboard Online</a>
 
 ## 📈 Key Insights
 - The platform shows a steady increase in active drivers from 2011 to 2020, with peak growth during 2018–2019.
